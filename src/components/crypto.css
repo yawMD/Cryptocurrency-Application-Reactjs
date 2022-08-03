@@ -17,7 +17,16 @@ table {
   padding: 10px;
   width: 20%;
   }
-
-.starts{
-    background: url("https://images.unsplash.com/photo-1644329968124-4c…3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60")
-}
+  @media (max-width: 600px) {
+    table{
+        width: 100%;
+    }
+    td, th {
+        border-top: 1px solid #b3b3b3;
+        border-bottom: 1px solid #b3b3b3;
+        text-align: left;
+      margin: 0;
+      padding:7px;
+      width: 20%;
+      }
+  }

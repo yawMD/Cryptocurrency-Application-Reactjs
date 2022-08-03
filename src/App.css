@@ -34,3 +34,19 @@ ul li a{
  background: transparent;
  border:1px solid grey;
 }
+@media (max-width: 600px) {
+  .CryptoHeader h3{
+    display: none;
+  }
+
+  .CryptoHeader input {
+    width: 50%;
+  }
+
+  .CryptoHeader form ul{
+    display: none;
+  }
+  /* body {
+    background-color: #87ceeb;
+  } */
+}
