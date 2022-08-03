@@ -10,7 +10,7 @@ const Crypto = (props) =>{
     <td><h4>{props.name}</h4></td>
     <td><p>{props.symbol}</p></td>
     <td><p>{props.marketcap}</p></td>
-    <td><p>GHC {props.price*(0.11)}</p></td>
+    <td><p>GHC {(props.price*(0.11)).toFixed(2)}</p></td>
   </tr>
 </table>
         </div>
