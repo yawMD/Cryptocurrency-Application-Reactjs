@@ -71,8 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 <img width="1680" alt="Screen Shot 2022-08-03 at 2 59 14 PM" src="https://user-images.githubusercontent.com/82598461/182641960-201460f5-a9bc-4022-9470-e66fa1d118bb.png">
 <img width="1663" alt="Screen Shot 2022-08-03 at 2 59 41 PM" src="https://user-images.githubusercontent.com/82598461/182641980-ab55344e-8634-4139-a72e-1ec2ed772a3c.png">
-
-Mobile responsive
 <img width="410" alt="Screen Shot 2022-08-03 at 3 01 17 PM" src="https://user-images.githubusercontent.com/82598461/182642006-85b0d9d4-2ed5-4d6b-b804-791b794a62db.png">![WhatsApp Image 2022-08-03 at 3 02 14 PM](https://user-images.githubusercontent.com/82598461/182642687-f40416d5-425e-4f1a-8f6a-59cf40d410af.jpeg)
 
 live demo https://cryptocoinss.herokuapp.com/
