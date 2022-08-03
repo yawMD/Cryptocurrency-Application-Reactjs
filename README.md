@@ -26,6 +26,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+<img width="1680" alt="Screen Shot 2022-08-03 at 2 59 14 PM" src="https://user-images.githubusercontent.com/82598461/182641912-1f1528f3-c8c8-47f8-af7b-c1b6ed981347.png">
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
@@ -68,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1680" alt="Screen Shot 2022-08-03 at 2 59 14 PM" src="https://user-images.githubusercontent.com/82598461/182641960-201460f5-a9bc-4022-9470-e66fa1d118bb.png">
+<img width="1663" alt="Screen Shot 2022-08-03 at 2 59 41 PM" src="https://user-images.githubusercontent.com/82598461/182641980-ab55344e-8634-4139-a72e-1ec2ed772a3c.png">
+<img width="410" alt="Screen Shot 2022-08-03 at 3 01 17 PM" src="https://user-images.githubusercontent.com/82598461/182642006-85b0d9d4-2ed5-4d6b-b804-791b794a62db.png">
