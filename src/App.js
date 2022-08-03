@@ -37,7 +37,7 @@ function App() {
   </form>
     <ul>
     <li><a href="https://www.blockchain.com/explorer">USD</a></li>
-    <li><a href="https://www.blockchain.com/explorer">Cedis</a></li>
+    <li><a href="https://www.blockchain.com/explorer">Indian Rupees</a></li>
     <li><a href="https://www.blockchain.com/explorer">Pounds</a></li>
     </ul>
     </div>
